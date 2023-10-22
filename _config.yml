@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-theme: minimal
+# theme: minimal
 title: Welcome to my blog.
 author: Saidu Ernest Kamara
 description: I help people explore their world through coding at Skyscanner | fostering my daughter to become a strong critical thinker | on a journey 2 live a purposeful life
